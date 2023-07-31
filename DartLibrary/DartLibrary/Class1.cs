@@ -4,10 +4,10 @@ namespace DartLibrary
 {
     public class Class1
     {
-        public void ExecutarExeDart()
+        public async Task ExecutarExeDart()
         {
             // Caminho completo para o arquivo executável Dart
-            string caminhoExeDart = "";
+            string caminhoExeDart = @"";
 
             // Verifica se o arquivo executável existe
             if (!System.IO.File.Exists(caminhoExeDart))
@@ -31,15 +31,26 @@ namespace DartLibrary
                 exeProcess.StartInfo = startInfo;
                 exeProcess.Start();
 
-                // Lê a saída padrão do processo
+                // Aguarda assincronamente o término do processo
+                await exeProcess.WaitForExitAsync();
+
+                // Lê a saída padrão do processo (agora, considerada como uma string)
                 string output = exeProcess.StandardOutput.ReadToEnd();
 
-                // Aguarda o término do processo
-                exeProcess.WaitForExit();
-
-                // Faça o que quiser com a saída (nesse exemplo, apenas exibindo no console)
                 Console.WriteLine($"Saída do executável Dart: {output}");
             }
+        }
+    }
+
+    public static class ProcessExtensions
+    {
+        public static Task WaitForExitAsync(this Process process)
+        {
+            TaskCompletionSource<object> tcs = new TaskCompletionSource<object>();
+            process.EnableRaisingEvents = true;
+            process.Exited += (sender, args) => tcs.TrySetResult(null);
+            if (process.HasExited) tcs.TrySetResult(null);
+            return tcs.Task;
         }
     }
 }
