@@ -1,0 +1,15 @@
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\bin\Debug\net7.0\DartInterop.exe
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\bin\Debug\net7.0\DartInterop.deps.json
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\bin\Debug\net7.0\DartInterop.runtimeconfig.json
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\bin\Debug\net7.0\DartInterop.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\bin\Debug\net7.0\DartInterop.pdb
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.csproj.AssemblyReference.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.AssemblyInfoInputs.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.AssemblyInfo.cs
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.csproj.CoreCompileInputs.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\refint\DartInterop.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.pdb
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\DartInterop.genruntimeconfig.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartInterop\DartInterop\obj\Debug\net7.0\ref\DartInterop.dll

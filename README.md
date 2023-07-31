@@ -1,0 +1,1 @@
+Este repositório contém uma prova de conceito (POC) que demonstra o processo de criação de uma Dynamic Link Library (DLL) usando como base um código escrito em Dart. O objetivo principal dessa POC é mostrar como é possível utilizar um código Dart em uma biblioteca compartilhada (DLL) que pode ser utilizada em outros projetos.

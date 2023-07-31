@@ -1,0 +1,17 @@
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\bin\Debug\net7.0\TestDartLibrary.exe
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\bin\Debug\net7.0\TestDartLibrary.deps.json
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\bin\Debug\net7.0\TestDartLibrary.runtimeconfig.json
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\bin\Debug\net7.0\TestDartLibrary.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\bin\Debug\net7.0\TestDartLibrary.pdb
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\bin\Debug\net7.0\DartLibrary.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.csproj.AssemblyReference.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.AssemblyInfoInputs.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.AssemblyInfo.cs
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.csproj.CopyComplete
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\refint\TestDartLibrary.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.pdb
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\TestDartLibrary.genruntimeconfig.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\TestDartLibrary\TestDartLibrary\obj\Debug\net7.0\ref\TestDartLibrary.dll

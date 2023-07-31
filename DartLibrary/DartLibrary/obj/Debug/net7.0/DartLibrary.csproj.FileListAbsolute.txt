@@ -1,0 +1,12 @@
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\bin\Debug\net7.0\DartLibrary.deps.json
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\bin\Debug\net7.0\DartLibrary.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\bin\Debug\net7.0\DartLibrary.pdb
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\DartLibrary.csproj.AssemblyReference.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\DartLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\DartLibrary.AssemblyInfoInputs.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\DartLibrary.AssemblyInfo.cs
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\DartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\DartLibrary.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\refint\DartLibrary.dll
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\DartLibrary.pdb
+C:\Users\Gab\Desktop\Wlabs\Projetos\DartLibrary\DartLibrary\obj\Debug\net7.0\ref\DartLibrary.dll
