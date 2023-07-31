@@ -1,0 +1,5 @@
+name: dart_aot_dll
+description: A sample command-line application.
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
