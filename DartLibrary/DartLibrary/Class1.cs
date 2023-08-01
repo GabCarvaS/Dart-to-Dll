@@ -4,25 +4,31 @@ namespace DartLibrary
 {
     public class Class1
     {
-        public async Task ExecutarExeDart()
+        public async Task<int> ExecutarExeDart(List<string> args)
         {
             // Caminho completo para o arquivo executável Dart
-            string caminhoExeDart = @"";
+            string caminhoExeDart = "";
 
             // Verifica se o arquivo executável existe
             if (!System.IO.File.Exists(caminhoExeDart))
             {
-                Console.WriteLine("O arquivo executável não foi encontrado.");
-                return;
+                return 0;
+            }
+
+            // Verifica se exatamente dois argumentos foram fornecidos
+            if (args.Count != 2)
+            {
+                return -1;
             }
 
             // Configurações do processo
             ProcessStartInfo startInfo = new ProcessStartInfo
             {
                 FileName = caminhoExeDart,
-                RedirectStandardOutput = true,
+                RedirectStandardOutput = false,
                 UseShellExecute = false,
-                CreateNoWindow = true
+                CreateNoWindow = true,
+                Arguments = string.Join(" ", args)
             };
 
             // Cria e inicia o processo
@@ -34,10 +40,9 @@ namespace DartLibrary
                 // Aguarda assincronamente o término do processo
                 await exeProcess.WaitForExitAsync();
 
-                // Lê a saída padrão do processo (agora, considerada como uma string)
-                string output = exeProcess.StandardOutput.ReadToEnd();
+                // Obtém o valor retornado pelo executável Dart a partir da propriedade ExitCode
+                return exeProcess.ExitCode;                
 
-                Console.WriteLine($"Saída do executável Dart: {output}");
             }
         }
     }

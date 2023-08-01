@@ -1,17 +1,22 @@
 import 'dart:io';
 
-int square(int x) {
-  return x * x;
+int multiply(int a, int b) {
+  return a * b;
 }
 
-int subtract(int a, int b) {
-  return a - b;
-}
+void main(List<String> arguments) {
+  int res = 0;
+  if (arguments.length > 0) {
 
-int main(List<String> arguments) {
-  int res = square(3);
-  print('res = $res');
+    // Convert the arguments to integers with a default value of 0 if parsing fails
+    int num1 = int.tryParse(arguments[0]) ?? 0;
+    int num2 = int.tryParse(arguments[1]) ?? 0;
 
-  sleep(Duration(seconds: 2));
-  return res;
+    res = multiply(num1, num2);
+
+    if (num1 == null || num2 == null) {
+      return;
+    }
+  }
+  exit(res);
 }
